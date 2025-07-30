@@ -5,16 +5,17 @@ A modern and responsive **Travel Agency Landing Page** built with HTML, CSS, and
 ## 📸 Output Screenshots
 
 ### 🔹 Hero Section  
-![Hero](travelco-landing-page/assets/screeshots/hero.png)
+![Hero](assets/screenshots/hero.png)
 
 ### 🔹 Explore Cards with Animation  
-![Explore](travelco-landing-page/assets/screeshots/explore.png)
+![Explore](assets/screenshots/explore.png)
 
 ### 🔹 Gallery Section  
-![Gallery](travelco-landing-page/assets/screeshots/gallery.png)
+![Gallery](assets/screenshots/gallery.png)
 
 ### 🔹 Booking CTA + Footer  
-![Booking](travelco-landing-page/assets/screeshots/footer.png)
+![Booking](assets/screenshots/footer.png)
+
 
 > ℹ️ Screenshots saved in `assets/screenshots/` folder.
 
