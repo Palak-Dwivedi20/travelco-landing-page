@@ -5,16 +5,16 @@ A modern and responsive **Travel Agency Landing Page** built with HTML, CSS, and
 ## 📸 Output Screenshots
 
 ### 🔹 Hero Section  
-![Hero](assets/screenshots/hero.png)
+![Hero](hero.png)
 
 ### 🔹 Explore Cards with Animation  
-![Explore](assets/screenshots/explore.png)
+![Explore](explore.png)
 
 ### 🔹 Gallery Section  
-![Gallery](assets/screenshots/gallery.png)
+![Gallery](gallery.png)
 
 ### 🔹 Booking CTA + Footer  
-![Booking](assets/screenshots/footer.png)
+![Booking](footer.png)
 
 
 > ℹ️ Screenshots saved in `assets/screenshots/` folder.
